@@ -1,5 +1,3 @@
-Starter for **HTTP, REST / WS** homework. Binary Studio Academy
-
 ## Installation
 
 `yarn install`
